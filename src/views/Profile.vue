@@ -14,6 +14,10 @@
           <div class="text-gray-400 ml-12 text-xs">STEP 02/03</div>
           <div class="text-white">Residency Info.</div>
         </div>
+        <div class="mr-12">
+          <div class="text-gray-400 ml-12 text-xs">STEP 02/03</div>
+          <div class="text-white">Residency Info.</div>
+        </div>
       </div>
       <div class="text-white text-3xl ml-24 font-bold">Complete Your Profile!</div>
       <div class="ml-24 mr-12 mt-6">
