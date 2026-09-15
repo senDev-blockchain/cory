@@ -22,11 +22,7 @@
           <div class="text-white">Forget Password</div>
         </div>
         <button class="bg-theme rounded w-full p-4 mt-10">Login</button>
-        <div class="flex justify-between mt-10">
-          <div class="w-2/5 h-px bg-white"></div>
-          <div class="text-white -mt-3">Or</div>
-          <div class="w-2/5 h-px bg-white"></div>
-        </div>
+        
         <button class="p-4 w-full bg-white rounded font-bold mt-6">
           <div class="flex justify-between mx-4">
             <img src="../assets/flat-color-icons_google.png" alt="">
